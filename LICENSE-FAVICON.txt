@@ -1,0 +1,4 @@
+favicon.ico (depicting a blue spider)
+Source: http://www.favicon.cc/?action=icon&file_id=489469
+Author: michaelhi
+License: "Creative Commons, no attribution"
