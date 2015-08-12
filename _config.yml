@@ -1,4 +1,5 @@
 {
+    "encoding": "utf-8",
     "gems": [
         "jekyll-redirect-from",
         "jekyll-sitemap"
